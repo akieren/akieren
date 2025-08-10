@@ -9,7 +9,8 @@ Aspiring AI & Data Engineering student | Python, learner | University entrance e
 - 🎯 Goal: To study Artificial Intelligence and Data Engineering at university
   
 ## Skills
-- Python (Intermediate)  
+- Python (Intermediate)
+- HTML, CSS (Intermediate)
 - Data Analysis (Pandas, Matplotlib, NumPy)  
 - Machine Learning basics (scikit-learn)  
 - Artificial Intelligence fundamentals
