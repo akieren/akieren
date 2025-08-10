@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aki 👋
 
-<!--
-**akieren/akieren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI & Data Engineering student | Python, HTML, CSS & JavaScript learner | University entrance exam candidate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📚 Preparing for university entrance exam while building programming skills  
+- 💻 Passionate about practical projects and data analysis  
+- 🎯 Goal: To study Artificial Intelligence and Data Engineering at university
+
+---
+
+## Skills
+
+- Python (Intermediate)  
+- Data Analysis (Pandas, Matplotlib basics)  
+- Web fundamentals (HTML, CSS, JavaScript basics)  
+
+---
+
+## Projects
+
+- [python-projects](https://github.com/eren/python-projects) — Small Python scripts & automation  
+- [data-practice](https://github.com/eren/data-practice) — Data analysis examples  
+- [study-tracker](https://github.com/eren/study-tracker) — Terminal-based study tracking app  
+
+---
+
+*Let's build the future with code! 🚀*
