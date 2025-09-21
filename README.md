@@ -14,4 +14,4 @@ Preparing for university entrance exam while building programming skills
 - Data Analysis (Pandas, Matplotlib, NumPy)  
 - Machine Learning basics (scikit-learn)  
 - Artificial Intelligence fundamentals
-- 
+  
