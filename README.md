@@ -1,6 +1,6 @@
 # Hi, I'm Aki 👋
 
-Aspiring AI & Data Engineering student | Python, learner | University entrance exam candidate
+AI & Data Engineering student | Python, learner | University entrance exam candidate
 
 Preparing for university entrance exam while building programming skills
   
@@ -10,7 +10,6 @@ Preparing for university entrance exam while building programming skills
   
 ## Skills
 - Python (Intermediate)
-- HTML, CSS (Intermediate)
 - Data Analysis (Pandas, Matplotlib, NumPy)  
 - Machine Learning basics (scikit-learn)  
 - Artificial Intelligence fundamentals
