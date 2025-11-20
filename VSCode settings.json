@@ -1,0 +1,93 @@
+{
+  "editor.fontSize": 16,
+  "debug.console.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "window.zoomLevel": 0,
+  "github.copilot.nextEditSuggestions.enabled": true,
+
+  // General settings
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Cascadia Code PL, Menlo, Monaco, 'Courier New', monospace",
+  "debug.console.fontFamily": "Cascadia Code PL, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "600",
+  "terminal.integrated.fontWeight": "600",
+  "workbench.settings.openDefaultSettings": false,
+  "workbench.settings.useSplitJSON": false,
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "welcomePage",
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.quickSuggestionsDelay": 200,
+  "editor.dragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+
+  "files.exclude": {
+    "**/.git": false,
+    "**/.mypy_cache": true
+  },
+
+  // Zen Mode settings
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+
+  // Copilot settings
+  "github.copilot.chat.agent.thinkingTool": true,
+  "github.copilot.chat.codesearch.enabled": true,
+  "github.copilot.chat.newWorkspace.useContext7": true,
+
+  "python.analysis.addHoverSummaries": true,
+
+  // Python settings
+  "python.venvPath": "~/venvs",
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      // "source.fixAll": "explicit"
+      "source.organizeImports": "explicit"
+    }
+  },
+  // "python.analysis.inlayHints.variableTypes": true,
+  // "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.typeCheckingMode": "off", // Disable Pylance Checking so MyPy Extension is only used
+  "python.analysis.autoFormatStrings": true,
+
+  // Code Runner settings
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.ignoreSelection": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.executorMap": {
+    "python": "\"$pythonPath\" -u $fullFileName"
+  },
+  "code-runner.enableAppInsights": false,
+
+  // Plaintext settings
+  "[plaintext]": {
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  // Shell script settings
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+
+  // Notebook settings
+  "notebook.defaultFormatter": "charliermarsh.ruff",
+  "notebook.formatOnSave.enabled": true,
+  "notebook.codeActionsOnSave": {
+    "notebook.source.organizeImports": "explicit"
+  },
+  "notebook.insertFinalNewline": true,
+  "notebook.output.scrolling": true,
+  "notebook.lineNumbers": "on",
+  "notebook.scrolling.revealNextCellOnExecute": "none"
+}
