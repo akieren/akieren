@@ -1,6 +1,6 @@
-# Hi, I'm Aki 👋
+# Hi, I'm Eren 👋
 
- Python, learner | University entrance exam candidate
+University entrance exam candidate
 
 Preparing for university entrance exam while building programming skills
   
