@@ -1,4 +1,4 @@
-# Hey there, I'm Eren Aktaş 🚀
+# Hey there, I'm Eren
 
 **Future AI Engineer**
 
