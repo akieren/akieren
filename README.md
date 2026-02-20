@@ -1,12 +1,8 @@
-<div align="center">
-
 # akieren
+
 **AI, Neuroscience & Philosophy | Aspiring AI Scientist**
 
 *"I approach AI not just as code, but as a way to model thought, perception, and learning."*
-
-</div>
-
 
 I am a 20-year-old researcher-minded developer. I am passionate about understanding intelligence—both natural and artificial. My interests sit at the intersection of philosophy, neuroscience, and AI, and I am dedicated to exploring how these fields inform each other.
 
